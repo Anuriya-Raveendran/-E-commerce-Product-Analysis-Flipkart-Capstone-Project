@@ -61,5 +61,3 @@ This Capstone Project focuses on web scraping Flipkart product data and applying
 - Include additional product attributes (discounts, brand, delivery time)
 - Apply NLP to analyze review text
 - Deploy the model in a web app or dashboard (e.g., using Streamlit or Power BI)
-
-
