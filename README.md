@@ -1,5 +1,5 @@
 
-# 📦 Flipkart E-commerce Product Analysis – Capstone Project
+# 📦 Flipkart E-commerce Product Analysis – Web scrapping Capstone Project
 
 ## 📖 Description
 This Capstone Project focuses on web scraping Flipkart product data and applying data science techniques to analyze and cluster products based on their price, rating, and reviews. The goal is to gain meaningful business insights by segmenting products into groups using unsupervised machine learning.
